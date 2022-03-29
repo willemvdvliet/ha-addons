@@ -7,6 +7,7 @@ arch:
   - aarch64
   - amd64
   - armv7
+  - arm64
 image: koush/scrypted
 host_network: true
 environment:
